@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+The project demonstrate ReactJS components provided by AWS Amplify for Authentication and Storage. The project promotes "LOW-CODE" and readily availalble ReactJS components for seemless integration with AWS Serverless Backend and other AWS services.
+
+A detailed walkthrough of the project available on Dev.to
+
+Blog :
+
+Author : https://dev.to/zachjonesnoel
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
