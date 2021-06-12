@@ -2,7 +2,7 @@ The project demonstrate ReactJS components provided by AWS Amplify for Authentic
 
 A detailed walkthrough of the project available on Dev.to
 
-Blog : https://dev.to/zachjonesnoel/aws-amplify-and-front-end-development-2h19
+Blog : https://dev.to/awscommunity-asean/aws-amplify-and-front-end-development-5geg
 
 Author : https://dev.to/zachjonesnoel
 
